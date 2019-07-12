@@ -8,7 +8,7 @@ var serveStatic = require('serve-static')
 var http = require('http');
 var port = process.env.PORT || 8000;
 var app = connect();
-app.use('/styles', sassMiddleware({
+('/styles', sassMiddleware({
   src: srcPath,
   dest: destPath,
   debug: true,

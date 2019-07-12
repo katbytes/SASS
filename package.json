@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "example node-sass usage",
   "main": "server.js",
-  "repository": "https://github.com/katbytes",
+  "repository": "https://github.com/andrew/node-sass-example",
   "keywords": [
     "sass",
     "scss",
     "node-sass",
     "example"
   ],
-  "author": "Katherine Bell",
+  "author": "Andrew Nesbitt",
   "license": "MIT",
   "dependencies": {
     "connect": "^3.3.4",
