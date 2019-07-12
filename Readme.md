@@ -5,7 +5,7 @@ Example app to show how to use [node-sass](https://github.com/sass/node-sass) as
 
 ## Setup
 
-    git clone
+    git clone https://github.com/katbytes/SASS.git
     cd node-sass-example
     npm install
     npm i sass
